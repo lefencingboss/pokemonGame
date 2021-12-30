@@ -1,0 +1,2 @@
+C:\Users\wilsonc9\source\repos\PokemonFinal\Debug\PokemonFinal.exe
+C:\Users\wilsonc9\source\repos\PokemonFinal\Debug\PokemonFinal.pdb

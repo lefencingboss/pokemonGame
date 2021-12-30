@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\wilsonc9\source\repos\PokemonFinal\Source.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\wilsonc9\source\repos\PokemonFinal\Source.cpp(113,7): warning C4101: 'choice': unreferenced local variable
+C:\Users\wilsonc9\source\repos\PokemonFinal\Source.cpp(168,9): warning C4101: 'choice': unreferenced local variable
+  PokemonFinal.vcxproj -> C:\Users\wilsonc9\source\repos\PokemonFinal\Debug\PokemonFinal.exe

@@ -1,0 +1,10 @@
+#include "Includes.h"
+#include <iostream>
+#include <string>
+#include <iterator>
+#include <list>
+#include "Trainer.h"
+#include "Pokemon.h"
+#include "Treeko.h"
+#include "Froakie.h"
+#include "Chimchar.h"
